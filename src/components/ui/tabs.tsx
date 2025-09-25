@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import * as TabsPrimitive from "@radix-ui/react-tabs"
-import { cn } from "@/lib/utils"  // make sure you have this helper, it's usually in shadcn setup
+import { cn } from "../../lib/utils"
 
 const Tabs = TabsPrimitive.Root
 
