@@ -1,0 +1,2 @@
+# Ignore info file from linting if needed
+info.tsx
